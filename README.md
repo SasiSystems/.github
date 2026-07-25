@@ -1,29 +1,44 @@
 # 🚀 SasiSystems
 
-Building enterprise-grade AI systems, intelligent automation, and modern full-stack applications.
-
-## 🌟 Vision
-
-SasiSystems is an open-source engineering organization focused on building production-quality software in:
-
-- 🤖 AI Agents
-- 🧠 Large Language Models (LLMs)
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🎥 Multimodal AI
-- 🌐 Full-Stack Applications
-- ☁️ Cloud & DevOps
-- 🩺 Healthcare AI
-- 🧪 AI Research
-
-## 📦 Featured Projects
-
-- 🌐 sasi-3d-portfolio
-- 🚀 futureforge-ai
-- 🤖 project-nova
-- 🩺 medscan-ai
-
-More projects coming soon.
+Building enterprise-grade AI systems, intelligent automation, multi-agent platforms, and cutting-edge developer tools.
 
 ---
 
-Made with ❤️ by SasiSystems.
+## 🚀 Flagship Projects
+
+- FutureForge AI
+- Project NOVA (Coming Soon)
+- Full Stack AI Agent
+- LLM Evaluation Dashboard
+- MedScan AI
+- Sasi 3D Portfolio
+
+---
+
+## 🤖 AI Domains
+
+- AI Agents
+- LLM Engineering
+- Retrieval-Augmented Generation (RAG)
+- Generative AI
+- Multimodal AI
+- Computer Vision
+- NLP
+- MLOps
+- Full Stack AI
+
+---
+
+## 📈 Current Mission
+
+Building 42 production-ready AI projects demonstrating real-world enterprise AI engineering.
+
+---
+
+## 🛠 Tech Stack
+
+Python • TypeScript • Next.js • React • FastAPI • LangChain • OpenAI • PostgreSQL • Prisma • Docker • Kubernetes • AWS
+
+---
+
+⭐ Follow our journey as we build one of the largest open-source AI engineering portfolios.
